@@ -1,0 +1,27 @@
+.favorite__main {
+    background-color: #2056be;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin: 0;
+}
+
+.favorite__content {
+    background-color: #fff;
+    margin: 10px auto;
+    width: 80%;
+    height: 100vh;
+}
+
+.favorite__tittle {
+    padding: 20px;
+    background-color: rgb(246, 242, 242);
+}
+
+.item__left {
+    border-right: 1px solid black;
+}
+
+.item__left__dis {
+    height: 500px;
+    overflow-y: scroll;
+}
